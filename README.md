@@ -2,9 +2,7 @@
 
 # Deniz Türker Tuncer
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=900&color=38BDF8&center=true&vCenter=true&width=940&lines=Yapay+Zeka+M%C3%BChendisi+%7C+RAG+ve+LLMOps;Mekatronik+bak%C4%B1%C5%9F+a%C3%A7%C4%B1s%C4%B1yla+ger%C3%A7ek+d%C3%BCnya+AI+sistemleri;Agent+sistemleri+%7C+End%C3%BCstriyel+veri+%7C+Otomasyon;Donan%C4%B1m%2C+veri+ve+yaz%C4%B1l%C4%B1m%C4%B1+ak%C4%B1ll%C4%B1+%C3%BCr%C3%BCnlere+d%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCyorum" alt="Dinamik karşılama yazısı" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=900&color=38BDF8&center=true&vCenter=true&width=940&lines=Yapay+Zeka+M%C3%BChendisi+%7C+RAG+ve+LLMOps;Mekatronik+bak%C4%B1%C5%9F+a%C3%A7%C4%B1s%C4%B1yla+ger%C3%A7ek+d%C3%BCnya+AI+sistemleri;Agent+sistemleri+%7C+End%C3%BCstriyel+veri+%7C+Otomasyon;Donan%C4%B1m%2C+veri+ve+yaz%C4%B1l%C4%B1m%C4%B1+ak%C4%B1ll%C4%B1+%C3%BCr%C3%BCnlere+d%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCyorum" alt="Dinamik karşılama yazısı" />
 
 <br />
 
@@ -14,7 +12,8 @@
 <a href="https://www.deniztuncer.blog">
   <img src="https://img.shields.io/badge/Portfolyo-deniztuncer.blog-14b8a6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolyo sitesi" />
 </a>
-<img src="https://img.shields.io/badge/Odak-RAG%20%7C%20LLMOps%20%7C%20AI%20Agents-f59e0b?style=for-the-badge" alt="Odak alanları" />
+<br />
+<code>Odak: RAG | LLMOps | AI Agents</code>
 
 </div>
 
@@ -121,11 +120,6 @@ Mekatronik mühendisliği geçmişinden gelen, uçtan uca yapay zeka uygulamalar
 ## GitHub İstatistikleri
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=deniztuncerz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&locale=tr" alt="GitHub istatistikleri" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=deniztuncerz&theme=tokyonight&hide_border=true&locale=tr" alt="GitHub seri katkı istatistikleri" />
-
-<br />
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deniztuncerz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=tr" alt="En çok kullanılan diller" />
 
