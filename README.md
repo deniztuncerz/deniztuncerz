@@ -1,6 +1,6 @@
 <div align="center">
 
-# Deniz Türker Tuncer
+# Deniz Türker TUNCER
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=900&color=38BDF8&center=true&vCenter=true&width=940&lines=Yapay+Zeka+M%C3%BChendisi+%7C+RAG+ve+LLMOps;Mekatronik+bak%C4%B1%C5%9F+a%C3%A7%C4%B1s%C4%B1yla+ger%C3%A7ek+d%C3%BCnya+AI+sistemleri;Agent+sistemleri+%7C+End%C3%BCstriyel+veri+%7C+Otomasyon;Donan%C4%B1m%2C+veri+ve+yaz%C4%B1l%C4%B1m%C4%B1+ak%C4%B1ll%C4%B1+%C3%BCr%C3%BCnlere+d%C3%B6n%C3%BC%C5%9Ft%C3%BCr%C3%BCyorum" alt="Dinamik karşılama yazısı" />
 
